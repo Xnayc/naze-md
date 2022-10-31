@@ -1,8 +1,8 @@
 /**
    * Create By Dika Ardnt.
-   * Recode By Naze Dev
-   * Contact Me on wa.me/6282113821188
-   * Follow https://github.com/nazedev
+   * Recode By Nanat Store
+   * Contact Me on wa.me/6281617247994
+   * Follow https://github.com/Xnayc
 */
 
 const fs = require('fs')
@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.owner = ['6281617247994']
+global.ownernomer = "6281617247994"
+global.premium = ['6281617247994']
+global.packname = 'Sticker By nanat'
+global.author = 'NanatBot'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -55,18 +55,18 @@ global.limitawal = {
 }
 
 // Fake
-global.thumb = fs.readFileSync('./media/image/naze.jpg')
-global.faall = fs.readFileSync('./media/image/fake.jpg')
+global.thumb = fs.readFileSync('./media/image/IMG-20221031-WA0010.jpg')
+global.faall = fs.readFileSync('./media/image/IMG-20221031-WA0010.jpg')
 
 // Url
-global.mygit = 'https://github.com/nazedev'
-global.myyt = 'https://youtube.com/c/Nazedev'
+global.mygit = 'https://github.com/Xnayc'
+global.myyt = 'https://youtube.com/c/-'
 global.myytv = 'https://youtu.be/FAsL-Jy4qLc'
-global.mygc = "https://chat.whatsapp.com/Cp1OJenk6Q9D9vgLjLU558"
+global.mygc = "https://chat.whatsapp.com/Jz8KEPal0Ef1gdGinbVuAm"
 
 // Engak Ngaruh, Belum Kepasang
-global.botname = 'NAZE BOT'
-global.akulaku = 'Bot By Naze'
+global.botname = 'NanatBot'
+global.akulaku = 'Bot By Nanat'
 global.ytname = 'YT NAZE' //Kalo Ngk Punya Yt Ngak Usah Di Ganti
 
 
